@@ -1,0 +1,1 @@
+A folder containing solutions for codeforces problems written in golang
